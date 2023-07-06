@@ -1,6 +1,9 @@
 # bad-apple-ascii
 Bad Apple But in ASCII!
 
+#DISCLAIMER
+My original account got flagged so that is why I moved my project to here
+
 # About
 I've been using this script to turn the legendary bad apple to ascii form, I came up with this idea when I encountered a video to ascii tutorial,
 
